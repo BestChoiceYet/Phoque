@@ -1,0 +1,12 @@
+{
+    "name": "TestNamePHQ",
+    "symbol": "TestPHQ",
+    "description": "Only Possible By Trying Hard",
+    "image": "https://raw.githubusercontent.com/BestChoiceYet/Phoque/main/Phoque%20Logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item Number 1",
+        "value": "Developer Portal Testing Ryan"
+      }
+    ]
+  }
